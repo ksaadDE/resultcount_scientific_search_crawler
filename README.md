@@ -7,7 +7,9 @@
 ## Example
 - `downloadSearchTermAndSave("base", "nuclear", 2020, getCurrentYear(),1)`
 - returns:
-  - !base_nuclear__2020_to_2023__2023_06_13T02_20_30.852856_tzPlus_00_00_CHART.png](base_nuclear__2020_to_2023__2023_06_13T02_20_30.852856_tzPlus_00_00_CHART.png)
+  - ![base_nuclear__2020_to_2023__2023_06_13T02_20_30.852856_tzPlus_00_00_CHART.png](base_nuclear__2020_to_2023__2023_06_13T02_20_30.852856_tzPlus_00_00_CHART.png)
+  - ![base_nuclear__2020_to_2023__2023_06_13T02_20_30.852856_tzPlus_00_00.csv](base_nuclear__2020_to_2023__2023_06_13T02_20_30.852856_tzPlus_00_00.csv)
+
 ## Installation
 - `pip install -r requirements.txt`y
 - hint: maybe you want to configure TOR as http request proxy ;-)
