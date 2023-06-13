@@ -4,6 +4,10 @@
 - Exports Charts if you need them, just add at the bottom of the script: 
   - `downloadSearchTermAndSave("<source>", "<term>", <start_year>, <end_year e.g. getCurrentYear()>, <steps=1>)`
 
+## Example
+- `downloadSearchTermAndSave("base", "nuclear", 2020, getCurrentYear(),1)`
+- returns:
+  - !base_nuclear__2020_to_2023__2023_06_13T02_20_30.852856_tzPlus_00_00_CHART.png](base_nuclear__2020_to_2023__2023_06_13T02_20_30.852856_tzPlus_00_00_CHART.png)
 ## Installation
 - `pip install -r requirements.txt`y
 - hint: maybe you want to configure TOR as http request proxy ;-)
