@@ -9,4 +9,4 @@
 - hint: maybe you want to configure TOR as http request proxy ;-)
 
 ## Usage
-- `python3 generateYearViewArxiv.py`
+- `python3 main.py`
